@@ -28,6 +28,8 @@
 
 [虚拟机](https://vm.buaasecompiling.cn)
 
+[工具链](https://github.com/BUAA-SE-Compiling/miniplc0-toolchain/releases)
+
 [实验源代码](https://github.com/BUAA-SE-Compiling/miniplc0-compiler)
 
 [标准环境](https://github.com/BUAA-SE-Compiling/compilers-env)
