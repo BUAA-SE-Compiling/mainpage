@@ -10,6 +10,8 @@
 
 [虚拟机](https://vm.buaasecompiling.cn)
 
+[实验源代码](https://github.com/BUAA-SE-Compiling/miniplc0-compiler)
+
 ## C0
 
 留空
