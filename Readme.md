@@ -12,6 +12,8 @@
 
 [实验源代码](https://github.com/BUAA-SE-Compiling/miniplc0-compiler)
 
+[标准环境](https://github.com/BUAA-SE-Compiling/compilers-env)
+
 ## C0
 
 留空
