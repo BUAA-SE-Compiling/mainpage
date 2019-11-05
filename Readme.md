@@ -24,6 +24,8 @@
 
 ## miniplc0
 
+理论上直接阅读指导书即可。
+
 [指导书](https://mini.buaasecompiling.cn)
 
 [虚拟机](https://vm.buaasecompiling.cn)
