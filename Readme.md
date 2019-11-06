@@ -39,3 +39,14 @@
 ## C0
 
 留空
+
+
+## 引用
+
+由于 Github Page Build 有一定延迟加上浏览器会默认缓存静态页面，因此引用课程任何相关的文档或者代码时候请引用 Permanent Links。
+
+Markdown 文件可以点击 blame 后按 y 得到 Permanent Links，一个例子是[这样](https://github.com/BUAA-SE-Compiling/mainpage/blame/3997b251df543b45f9519467d6d5ee63f1f82419/Readme.md#L15)，为什么是按 y 见[这里](https://help.github.com/en/github/managing-files-in-a-repository/getting-permanent-links-to-files)
+
+代码文件直接在行号上选择即可，一个例子是[这样](https://github.com/BUAA-SE-Compiling/compilers-env/blob/bc2bd1638a5d0b7ef9a2e8d1bf6460ddcce02eb1/Dockerfile#L25)
+
+以上对要求勘误也是一样，尤其是用邮件的方式提交勘误的时候。
