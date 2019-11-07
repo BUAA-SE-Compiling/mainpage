@@ -24,7 +24,7 @@
 
 ## miniplc0
 
-实验的目标是补全词法分析器和语法分析器，理论上直接阅读指导书就可以。
+实验的目标是补全 miniplc0 编译器的词法分析器和语法分析器，理论上直接阅读指导书就可以。
 
 [指导书](https://mini.buaasecompiling.cn)
 
@@ -35,6 +35,30 @@
 [实验源代码](https://github.com/BUAA-SE-Compiling/miniplc0-compiler)
 
 [标准环境](https://github.com/BUAA-SE-Compiling/compilers-env)
+
+### FAQ
+
+#### 这个实验要做什么？
+
+> 补全 miniplc0 编译器的词法分析器和语法分析器
+
+结果上应该写一个**完整**的 miniplc0 编译系统的编译器。
+
+#### 为什么需要 docker？
+
+docker 可以统一编译环境，我们统一使用的是上面提到的标准环境。
+
+#### 我必须要在 container 中完成吗？
+
+不需要，container 只是最终评测环境，你可以先用 IDE 写完再自行测试，也可以一开始配好远程调试环境。
+
+#### 我的分数怎么构成？
+
+提交后我们会自动化评测你的实现（填空），分数由通过样例数决定，类似没有即时结果的 OJ。
+
+#### 我怎么提交？
+
+目前暂定是软院的云平台提交。
 
 ## C0
 
