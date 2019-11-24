@@ -58,12 +58,37 @@ docker 可以统一编译环境，我们统一使用的是上面提到的标准�
 
 #### 我怎么提交？
 
-目前暂定是软院的云平台提交。
+[软院云平台](http://cloud.beihangsoft.cn/)。
 
 ## C0
 
-留空
+[指导书](https://github.com/BUAA-SE-Compiling/c0-handbook)
 
+[虚拟机标准](https://github.com/BUAA-SE-Compiling/c0-vm-standards)
+
+[标准环境](https://github.com/BUAA-SE-Compiling/compilers-env)
+
+### FAQ
+
+#### 这个实验要做什么？
+
+手动实现一个完整的 [C0](https://github.com/BUAA-SE-Compiling/c0-handbook) 编译器
+
+并且能够输出在[标准虚拟机](https://github.com/BUAA-SE-Compiling/c0-vm-standards)或其他目标机上可运行的代码。
+
+#### 我还需要 docker 吗？
+
+最后检查时运行的环境还是[同一个 docker](https://github.com/BUAA-SE-Compiling/compilers-env) ，为了你的成绩可靠性着想，无论你使用何种方式在何种环境开发，都建议你最后在 docker 上测试一下。
+
+#### 我的分数怎么构成？
+
+课堂检查用你的虚拟机跑用例，和期望结果一致就得到该组用例的分。
+
+如果你自己提供虚拟机，那么就以你的虚拟机运行结果为准；否则都以标准虚拟机的结果为准。
+
+#### 我怎么提交？
+
+[软院云平台](http://cloud.beihangsoft.cn/)。
 
 ## 引用
 
