@@ -62,9 +62,9 @@ docker 可以统一编译环境，我们统一使用的是上面提到的标准�
 
 ## C0
 
-[指导书](https://github.com/BUAA-SE-Compiling/c0-handbook)
+[指导书](https://c0.buaasecompiling.cn)
 
-[虚拟机标准](https://github.com/BUAA-SE-Compiling/c0-vm-standards)
+[虚拟机标准](https://c0vm.buaasecompiling.cn)
 
 [标准环境](https://github.com/BUAA-SE-Compiling/compilers-env)
 
